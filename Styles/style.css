@@ -148,7 +148,7 @@ section {
 
 .carousel {
     display: block;
-    height: 425px;
+    max-height: 800px;
     position: relative;
     margin: auto;
     overflow: hidden;
